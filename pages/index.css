@@ -2,4 +2,9 @@
   font-family: Inter, arial, sans-serif;
   font-size: 16px;
   line-height: 20px;
+  min-width: 1100px;
+  max-width: 1600px;
+  display: flex;
+  justify-content: center;
+  margin: 0 auto;
 }
