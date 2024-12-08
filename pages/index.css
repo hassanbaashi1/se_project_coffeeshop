@@ -87,6 +87,7 @@
 }
 .nav__link {
   font-family: "Inter", "arial", "sans-serif";
+  font-style: normal;
   font-weight: 500;
   font-size: 16px;
   line-height: 20px;
@@ -125,12 +126,12 @@
   justify-content: center;
   gap: 100px;
   list-style: none;
+  border: none; /* Or specify a border like 1px solid #ccc */
 }
 
 .recipes__video-caption {
   display: flex;
   justify-content: space-between;
-  border: none; /* Or specify a border like 1px solid #ccc */
   font-family: "Inter", "arial", "sans-serif";
   font-weight: 500;
   font-size: 20px;
