@@ -130,11 +130,9 @@
 .recipes__video-caption {
   display: flex;
   justify-content: space-between;
+  border: none; /* Or specify a border like 1px solid #ccc */
   font-family: "Inter", "arial", "sans-serif";
   font-weight: 500;
   font-size: 20px;
   line-height: 30px;
-}
-.recipes__iframe {
-  border: none; /* Or specify a border like 1px solid #ccc */
 }
