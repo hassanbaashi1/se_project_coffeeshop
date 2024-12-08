@@ -95,10 +95,13 @@
   background-image: url(../images/background_recipes.svg);
   background-size: cover;
   position: relative;
+}
+
+.recipes-class {
+  font-family: "Noto Serif", serif;
   font-style: italic;
   font-weight: 400;
 }
-
 .recipes__title {
   margin: 0 0 24px;
   max-width: 588px;
