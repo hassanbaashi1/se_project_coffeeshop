@@ -95,6 +95,8 @@
   background-image: url(../images/background_recipes.svg);
   background-size: cover;
   position: relative;
+  font-style: italic;
+  font-weight: 400;
 }
 
 .recipes__title {
@@ -111,7 +113,7 @@
   max-width: 438px;
   font-family: "Noto Serif", "Time New Roman", serif;
   font-style: normal;
-  font-weight: 400;
+  font-weight: normal;
   font-size: 20px;
   line-height: 30px;
 }
@@ -119,7 +121,7 @@
 .recipes__videos {
   display: flex;
   justify-content: center;
-  gap: 180px;
+  gap: 100px;
   list-style: none;
 }
 
@@ -132,6 +134,5 @@
   line-height: 30px;
 }
 .recipes__iframe {
-  width: 560px;
-  height: 315px;
+  border: none;
 }
