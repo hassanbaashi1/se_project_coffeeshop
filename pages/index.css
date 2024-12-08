@@ -36,12 +36,14 @@
   color: #3f96f3;
   display: block;
   font-family: "Noto Serif", "Time New Roman", serif;
+  font-weight: 400;
   font-style: italic;
   font-size: 60px;
   line-height: 72px;
 }
 .header__description {
   font-family: "Noto Serif", "Time New Roman", serif;
+  font-weight: 400;
   font-size: 20px;
   line-height: 30px;
   margin: 28px 0 0;
@@ -109,7 +111,7 @@
   max-width: 438px;
   font-family: "Noto Serif", "Time New Roman", serif;
   font-style: normal;
-  font-weight: normal;
+  font-weight: 400;
   font-size: 20px;
   line-height: 30px;
 }
